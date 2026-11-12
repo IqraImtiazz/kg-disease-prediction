@@ -53,7 +53,7 @@ Models: Logistic Regression, Random Forest.
 Each prediction is traced to supporting Disease–presents–Symptom edges in the KG. On a 50%-dropout test set with KG-support+Aug (LogReg): 38% of predictions fall on KG-mapped diseases, and 71% of those have ≥1 supporting KG edge (`explanations.csv`).
 
 ## Data-quality layer
-Records are checked against KG knowledge: share of a record's KG-mapped symptoms linked to its labelled disease. Results: {'OK': 54, 'LOW': 54, 'INCONSISTENT': 3}. Low support correlates with low KG degree of the disease, so many flags reflect **KG incompleteness** rather than data errors (`data_quality_flags.csv`).
+Records are checked against KG knowledge: share of a record's KG-mapped symptoms linked to its labelled disease. Results: {'OK': 54, 'LOW': 54, 'INCONSISTENT': 3}. LOW flags likely reflect a mix of approximate disease mappings, sparse symptom coverage in Hetionet, and possible label noise; they are candidates for manual review rather than confirmed errors. (`data_quality_flags.csv`).
 
 ## Limitations
 - Hetionet covers only 16/41 dataset diseases; several mappings are approximate.
