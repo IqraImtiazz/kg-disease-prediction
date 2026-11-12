@@ -1,0 +1,112 @@
+disease,kg_disease,kg_degree,symptoms,kg_symptoms_checked,kg_support,flag
+Allergy,allergic rhinitis,17,"chills, continuous_sneezing, shivering, watering_from_eyes",2,0.5,OK
+Chronic cholestasis,primary biliary cirrhosis,8,"abdominal_pain, itching, loss_of_appetite, nausea, vomiting, yellowing_of_eyes, yellowish_skin",6,0.33,LOW
+AIDS,acquired immunodeficiency syndrome,24,"extra_marital_contacts, high_fever, muscle_wasting, patches_in_throat",2,0.5,OK
+Diabetes,type 2 diabetes mellitus,14,"blurred_and_distorted_vision, excessive_hunger, fatigue, increased_appetite, irregular_sugar_level, lethargy, obesity, polyuria, restlessness, weight_loss",7,0.14,LOW
+Bronchial Asthma,asthma,26,"breathlessness, cough, family_history, fatigue, high_fever, mucoid_sputum",4,0.5,OK
+Hypertension,hypertension,33,"chest_pain, dizziness, headache, lack_of_concentration, loss_of_balance",5,0.4,OK
+Migraine,migraine,61,"acidity, blurred_and_distorted_vision, depression, excessive_hunger, headache, indigestion, irritability, stiff_neck, visual_disturbances",6,0.33,LOW
+Cervical spondylosis,degenerative disc disease,8,"back_pain, dizziness, loss_of_balance, neck_pain, weakness_in_limbs",5,0.4,OK
+Malaria,malaria,25,"chills, diarrhoea, headache, high_fever, muscle_pain, nausea, sweating, vomiting",7,0.57,OK
+Hepatitis B,hepatitis b,12,"abdominal_pain, dark_urine, fatigue, itching, lethargy, loss_of_appetite, malaise, receiving_blood_transfusion, receiving_unsterile_injections, yellow_urine, yellowing_of_eyes, yellowish_skin",7,0.14,LOW
+Heart attack,coronary artery disease,13,"breathlessness, chest_pain, sweating, vomiting",3,0.33,LOW
+Hypothyroidism,hypothyroidism,34,"abnormal_menstruation, brittle_nails, cold_hands_and_feets, depression, dizziness, enlarged_thyroid, fatigue, irritability, lethargy, mood_swings, puffy_face_and_eyes, swollen_extremeties, weight_gain",6,0.33,LOW
+Hyperthyroidism,graves' disease,22,"abnormal_menstruation, diarrhoea, excessive_hunger, fast_heart_rate, fatigue, irritability, mood_swings, muscle_weakness, restlessness, sweating, weight_loss",7,0.14,LOW
+Osteoarthristis,osteoarthritis,24,"hip_joint_pain, joint_pain, knee_pain, neck_pain, painful_walking, swelling_joints",3,1.0,OK
+Arthritis,rheumatoid arthritis,51,"movement_stiffness, muscle_weakness, painful_walking, stiff_neck, swelling_joints",5,0.2,LOW
+Psoriasis,psoriasis,25,"inflammatory_nails, joint_pain, silver_like_dusting, skin_peeling, skin_rash, small_dents_in_nails",2,1.0,OK
+Allergy,allergic rhinitis,17,"chills, continuous_sneezing, watering_from_eyes",2,0.5,OK
+Allergy,allergic rhinitis,17,"continuous_sneezing, shivering, watering_from_eyes",2,0.5,OK
+Allergy,allergic rhinitis,17,"chills, continuous_sneezing, shivering",2,0.5,OK
+Chronic cholestasis,primary biliary cirrhosis,8,"abdominal_pain, loss_of_appetite, nausea, vomiting, yellowing_of_eyes, yellowish_skin",5,0.2,LOW
+Chronic cholestasis,primary biliary cirrhosis,8,"abdominal_pain, itching, loss_of_appetite, nausea, yellowing_of_eyes, yellowish_skin",5,0.4,OK
+Chronic cholestasis,primary biliary cirrhosis,8,"abdominal_pain, itching, loss_of_appetite, nausea, vomiting, yellowing_of_eyes",6,0.33,LOW
+Chronic cholestasis,primary biliary cirrhosis,8,"abdominal_pain, itching, loss_of_appetite, vomiting, yellowing_of_eyes, yellowish_skin",5,0.4,OK
+Chronic cholestasis,primary biliary cirrhosis,8,"abdominal_pain, itching, nausea, vomiting, yellowing_of_eyes, yellowish_skin",5,0.4,OK
+Chronic cholestasis,primary biliary cirrhosis,8,"itching, loss_of_appetite, nausea, vomiting, yellowing_of_eyes, yellowish_skin",5,0.4,OK
+Chronic cholestasis,primary biliary cirrhosis,8,"abdominal_pain, itching, loss_of_appetite, nausea, vomiting, yellowish_skin",6,0.33,LOW
+AIDS,acquired immunodeficiency syndrome,24,"extra_marital_contacts, high_fever, muscle_wasting",2,0.5,OK
+AIDS,acquired immunodeficiency syndrome,24,"high_fever, muscle_wasting, patches_in_throat",2,0.5,OK
+Diabetes,type 2 diabetes mellitus,14,"blurred_and_distorted_vision, excessive_hunger, increased_appetite, irregular_sugar_level, lethargy, obesity, polyuria, restlessness, weight_loss",6,0.17,LOW
+Diabetes,type 2 diabetes mellitus,14,"blurred_and_distorted_vision, excessive_hunger, fatigue, increased_appetite, irregular_sugar_level, lethargy, obesity, polyuria, restlessness",6,0.0,INCONSISTENT
+Diabetes,type 2 diabetes mellitus,14,"blurred_and_distorted_vision, excessive_hunger, fatigue, increased_appetite, irregular_sugar_level, lethargy, obesity, polyuria, weight_loss",6,0.17,LOW
+Diabetes,type 2 diabetes mellitus,14,"blurred_and_distorted_vision, excessive_hunger, fatigue, increased_appetite, irregular_sugar_level, obesity, polyuria, restlessness, weight_loss",6,0.17,LOW
+Diabetes,type 2 diabetes mellitus,14,"blurred_and_distorted_vision, excessive_hunger, fatigue, increased_appetite, lethargy, obesity, polyuria, restlessness, weight_loss",7,0.14,LOW
+Diabetes,type 2 diabetes mellitus,14,"excessive_hunger, fatigue, increased_appetite, irregular_sugar_level, lethargy, obesity, polyuria, restlessness, weight_loss",6,0.17,LOW
+Diabetes,type 2 diabetes mellitus,14,"blurred_and_distorted_vision, excessive_hunger, fatigue, increased_appetite, irregular_sugar_level, lethargy, polyuria, restlessness, weight_loss",7,0.14,LOW
+Diabetes,type 2 diabetes mellitus,14,"blurred_and_distorted_vision, fatigue, increased_appetite, irregular_sugar_level, lethargy, obesity, polyuria, restlessness, weight_loss",7,0.14,LOW
+Bronchial Asthma,asthma,26,"breathlessness, cough, family_history, high_fever, mucoid_sputum",3,0.67,OK
+Bronchial Asthma,asthma,26,"breathlessness, family_history, fatigue, high_fever, mucoid_sputum",3,0.33,LOW
+Bronchial Asthma,asthma,26,"breathlessness, cough, family_history, fatigue, mucoid_sputum",3,0.67,OK
+Bronchial Asthma,asthma,26,"cough, family_history, fatigue, high_fever, mucoid_sputum",3,0.33,LOW
+Bronchial Asthma,asthma,26,"breathlessness, cough, fatigue, high_fever, mucoid_sputum",4,0.5,OK
+Bronchial Asthma,asthma,26,"breathlessness, cough, family_history, fatigue, high_fever",4,0.5,OK
+Hypertension,hypertension,33,"chest_pain, dizziness, lack_of_concentration, loss_of_balance",4,0.25,LOW
+Hypertension,hypertension,33,"dizziness, headache, lack_of_concentration, loss_of_balance",4,0.5,OK
+Hypertension,hypertension,33,"chest_pain, headache, lack_of_concentration, loss_of_balance",4,0.25,LOW
+Hypertension,hypertension,33,"chest_pain, dizziness, headache, lack_of_concentration",4,0.5,OK
+Hypertension,hypertension,33,"chest_pain, dizziness, headache, loss_of_balance",4,0.5,OK
+Migraine,migraine,61,"blurred_and_distorted_vision, depression, excessive_hunger, headache, indigestion, irritability, stiff_neck, visual_disturbances",5,0.4,OK
+Migraine,migraine,61,"acidity, blurred_and_distorted_vision, depression, excessive_hunger, headache, irritability, stiff_neck, visual_disturbances",5,0.4,OK
+Migraine,migraine,61,"acidity, blurred_and_distorted_vision, depression, excessive_hunger, indigestion, irritability, stiff_neck, visual_disturbances",5,0.2,LOW
+Migraine,migraine,61,"acidity, depression, excessive_hunger, headache, indigestion, irritability, stiff_neck, visual_disturbances",6,0.33,LOW
+Migraine,migraine,61,"acidity, blurred_and_distorted_vision, depression, headache, indigestion, irritability, stiff_neck, visual_disturbances",5,0.4,OK
+Migraine,migraine,61,"acidity, blurred_and_distorted_vision, depression, excessive_hunger, headache, indigestion, irritability, visual_disturbances",5,0.4,OK
+Migraine,migraine,61,"acidity, blurred_and_distorted_vision, excessive_hunger, headache, indigestion, irritability, stiff_neck, visual_disturbances",6,0.33,LOW
+Migraine,migraine,61,"acidity, blurred_and_distorted_vision, depression, excessive_hunger, headache, indigestion, stiff_neck, visual_disturbances",6,0.33,LOW
+Migraine,migraine,61,"acidity, blurred_and_distorted_vision, depression, excessive_hunger, headache, indigestion, irritability, stiff_neck",6,0.33,LOW
+Cervical spondylosis,degenerative disc disease,8,"dizziness, loss_of_balance, neck_pain, weakness_in_limbs",4,0.25,LOW
+Cervical spondylosis,degenerative disc disease,8,"back_pain, dizziness, loss_of_balance, neck_pain",4,0.5,OK
+Cervical spondylosis,degenerative disc disease,8,"back_pain, dizziness, loss_of_balance, weakness_in_limbs",4,0.25,LOW
+Cervical spondylosis,degenerative disc disease,8,"back_pain, loss_of_balance, neck_pain, weakness_in_limbs",4,0.5,OK
+Cervical spondylosis,degenerative disc disease,8,"back_pain, dizziness, neck_pain, weakness_in_limbs",4,0.5,OK
+Malaria,malaria,25,"chills, headache, high_fever, muscle_pain, nausea, sweating, vomiting",6,0.5,OK
+Malaria,malaria,25,"diarrhoea, headache, high_fever, muscle_pain, nausea, sweating, vomiting",6,0.5,OK
+Malaria,malaria,25,"chills, diarrhoea, headache, high_fever, muscle_pain, nausea, sweating",6,0.5,OK
+Malaria,malaria,25,"chills, diarrhoea, headache, muscle_pain, nausea, sweating, vomiting",6,0.5,OK
+Malaria,malaria,25,"chills, diarrhoea, headache, high_fever, muscle_pain, nausea, vomiting",7,0.57,OK
+Malaria,malaria,25,"chills, diarrhoea, high_fever, muscle_pain, nausea, sweating, vomiting",6,0.67,OK
+Malaria,malaria,25,"chills, diarrhoea, headache, high_fever, muscle_pain, sweating, vomiting",6,0.67,OK
+Hepatitis B,hepatitis b,12,"abdominal_pain, dark_urine, fatigue, lethargy, loss_of_appetite, malaise, receiving_blood_transfusion, receiving_unsterile_injections, yellow_urine, yellowing_of_eyes, yellowish_skin",6,0.17,LOW
+Hepatitis B,hepatitis b,12,"abdominal_pain, dark_urine, itching, lethargy, loss_of_appetite, malaise, receiving_blood_transfusion, receiving_unsterile_injections, yellow_urine, yellowing_of_eyes, yellowish_skin",6,0.17,LOW
+Hepatitis B,hepatitis b,12,"abdominal_pain, dark_urine, fatigue, itching, loss_of_appetite, malaise, receiving_blood_transfusion, receiving_unsterile_injections, yellow_urine, yellowing_of_eyes, yellowish_skin",6,0.17,LOW
+Hepatitis B,hepatitis b,12,"abdominal_pain, dark_urine, fatigue, itching, lethargy, loss_of_appetite, malaise, receiving_blood_transfusion, receiving_unsterile_injections, yellow_urine, yellowing_of_eyes",7,0.14,LOW
+Hepatitis B,hepatitis b,12,"abdominal_pain, fatigue, itching, lethargy, loss_of_appetite, malaise, receiving_blood_transfusion, receiving_unsterile_injections, yellow_urine, yellowing_of_eyes, yellowish_skin",7,0.14,LOW
+Hepatitis B,hepatitis b,12,"abdominal_pain, dark_urine, fatigue, itching, lethargy, malaise, receiving_blood_transfusion, receiving_unsterile_injections, yellow_urine, yellowing_of_eyes, yellowish_skin",6,0.17,LOW
+Hepatitis B,hepatitis b,12,"dark_urine, fatigue, itching, lethargy, loss_of_appetite, malaise, receiving_blood_transfusion, receiving_unsterile_injections, yellow_urine, yellowing_of_eyes, yellowish_skin",6,0.17,LOW
+Hepatitis B,hepatitis b,12,"abdominal_pain, dark_urine, fatigue, itching, lethargy, loss_of_appetite, malaise, receiving_blood_transfusion, receiving_unsterile_injections, yellowing_of_eyes, yellowish_skin",7,0.14,LOW
+Heart attack,coronary artery disease,13,"breathlessness, chest_pain, sweating",2,0.5,OK
+Heart attack,coronary artery disease,13,"chest_pain, sweating, vomiting",2,0.5,OK
+Heart attack,coronary artery disease,13,"breathlessness, chest_pain, vomiting",3,0.33,LOW
+Heart attack,coronary artery disease,13,"breathlessness, sweating, vomiting",2,0.0,INCONSISTENT
+Hypothyroidism,hypothyroidism,34,"abnormal_menstruation, brittle_nails, cold_hands_and_feets, depression, dizziness, enlarged_thyroid, irritability, lethargy, mood_swings, puffy_face_and_eyes, swollen_extremeties, weight_gain",5,0.2,LOW
+Hypothyroidism,hypothyroidism,34,"abnormal_menstruation, brittle_nails, cold_hands_and_feets, depression, dizziness, enlarged_thyroid, fatigue, irritability, lethargy, mood_swings, puffy_face_and_eyes, swollen_extremeties",5,0.4,OK
+Hypothyroidism,hypothyroidism,34,"abnormal_menstruation, brittle_nails, depression, dizziness, enlarged_thyroid, fatigue, irritability, lethargy, mood_swings, puffy_face_and_eyes, swollen_extremeties, weight_gain",6,0.33,LOW
+Hypothyroidism,hypothyroidism,34,"abnormal_menstruation, brittle_nails, cold_hands_and_feets, depression, dizziness, enlarged_thyroid, fatigue, irritability, lethargy, puffy_face_and_eyes, swollen_extremeties, weight_gain",6,0.33,LOW
+Hypothyroidism,hypothyroidism,34,"abnormal_menstruation, brittle_nails, cold_hands_and_feets, depression, dizziness, enlarged_thyroid, fatigue, irritability, mood_swings, puffy_face_and_eyes, swollen_extremeties, weight_gain",5,0.4,OK
+Hypothyroidism,hypothyroidism,34,"abnormal_menstruation, brittle_nails, cold_hands_and_feets, depression, enlarged_thyroid, fatigue, irritability, lethargy, mood_swings, puffy_face_and_eyes, swollen_extremeties, weight_gain",5,0.4,OK
+Hypothyroidism,hypothyroidism,34,"abnormal_menstruation, brittle_nails, cold_hands_and_feets, depression, dizziness, enlarged_thyroid, fatigue, irritability, lethargy, mood_swings, swollen_extremeties, weight_gain",6,0.33,LOW
+Hyperthyroidism,graves' disease,22,"abnormal_menstruation, diarrhoea, excessive_hunger, fast_heart_rate, irritability, mood_swings, muscle_weakness, restlessness, sweating, weight_loss",6,0.17,LOW
+Hyperthyroidism,graves' disease,22,"abnormal_menstruation, diarrhoea, excessive_hunger, fast_heart_rate, fatigue, irritability, muscle_weakness, restlessness, sweating, weight_loss",7,0.14,LOW
+Hyperthyroidism,graves' disease,22,"abnormal_menstruation, diarrhoea, excessive_hunger, fast_heart_rate, fatigue, irritability, mood_swings, muscle_weakness, restlessness, sweating",6,0.17,LOW
+Hyperthyroidism,graves' disease,22,"abnormal_menstruation, diarrhoea, excessive_hunger, fast_heart_rate, fatigue, irritability, mood_swings, muscle_weakness, sweating, weight_loss",6,0.17,LOW
+Hyperthyroidism,graves' disease,22,"abnormal_menstruation, diarrhoea, excessive_hunger, fast_heart_rate, fatigue, irritability, mood_swings, muscle_weakness, restlessness, weight_loss",7,0.14,LOW
+Hyperthyroidism,graves' disease,22,"abnormal_menstruation, excessive_hunger, fast_heart_rate, fatigue, irritability, mood_swings, muscle_weakness, restlessness, sweating, weight_loss",6,0.17,LOW
+Hyperthyroidism,graves' disease,22,"abnormal_menstruation, diarrhoea, excessive_hunger, fatigue, irritability, mood_swings, muscle_weakness, restlessness, sweating, weight_loss",7,0.14,LOW
+Hyperthyroidism,graves' disease,22,"abnormal_menstruation, diarrhoea, fast_heart_rate, fatigue, irritability, mood_swings, muscle_weakness, restlessness, sweating, weight_loss",6,0.17,LOW
+Osteoarthristis,osteoarthritis,24,"hip_joint_pain, knee_pain, neck_pain, painful_walking, swelling_joints",3,1.0,OK
+Osteoarthristis,osteoarthritis,24,"hip_joint_pain, joint_pain, knee_pain, painful_walking, swelling_joints",2,1.0,OK
+Osteoarthristis,osteoarthritis,24,"hip_joint_pain, joint_pain, neck_pain, painful_walking, swelling_joints",3,1.0,OK
+Osteoarthristis,osteoarthritis,24,"joint_pain, knee_pain, neck_pain, painful_walking, swelling_joints",3,1.0,OK
+Osteoarthristis,osteoarthritis,24,"hip_joint_pain, joint_pain, knee_pain, neck_pain, painful_walking",3,1.0,OK
+Osteoarthristis,osteoarthritis,24,"hip_joint_pain, joint_pain, knee_pain, neck_pain, swelling_joints",2,1.0,OK
+Arthritis,rheumatoid arthritis,51,"movement_stiffness, painful_walking, stiff_neck, swelling_joints",4,0.25,LOW
+Arthritis,rheumatoid arthritis,51,"movement_stiffness, muscle_weakness, painful_walking, swelling_joints",4,0.25,LOW
+Arthritis,rheumatoid arthritis,51,"movement_stiffness, muscle_weakness, painful_walking, stiff_neck",4,0.0,INCONSISTENT
+Arthritis,rheumatoid arthritis,51,"muscle_weakness, painful_walking, stiff_neck, swelling_joints",4,0.25,LOW
+Arthritis,rheumatoid arthritis,51,"movement_stiffness, muscle_weakness, stiff_neck, swelling_joints",4,0.25,LOW
+Psoriasis,psoriasis,25,"inflammatory_nails, joint_pain, silver_like_dusting, skin_peeling, small_dents_in_nails",2,1.0,OK
+Psoriasis,psoriasis,25,"inflammatory_nails, joint_pain, silver_like_dusting, skin_rash, small_dents_in_nails",2,1.0,OK
+Psoriasis,psoriasis,25,"inflammatory_nails, joint_pain, skin_peeling, skin_rash, small_dents_in_nails",2,1.0,OK
+Psoriasis,psoriasis,25,"inflammatory_nails, joint_pain, silver_like_dusting, skin_peeling, skin_rash",2,1.0,OK
+Psoriasis,psoriasis,25,"joint_pain, silver_like_dusting, skin_peeling, skin_rash, small_dents_in_nails",2,1.0,OK

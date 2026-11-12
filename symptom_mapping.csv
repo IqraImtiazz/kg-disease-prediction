@@ -1,0 +1,132 @@
+dataset_symptom,kg_symptom
+abdominal_pain,abdominal pain
+abnormal_menstruation,dysmenorrhea
+acidity,heartburn
+acute_liver_failure,
+altered_sensorium,consciousness disorders
+anxiety,
+back_pain,back pain
+belly_pain,abdominal pain
+blackheads,skin manifestations
+bladder_discomfort,pelvic pain
+blister,skin manifestations
+blood_in_sputum,hemoptysis
+bloody_stool,
+blurred_and_distorted_vision,vision disorders
+breathlessness,dyspnea
+brittle_nails,
+bruising,ecchymosis
+burning_micturition,dysuria
+chest_pain,chest pain
+chills,chills
+cold_hands_and_feets,
+coma,coma
+congestion,
+constipation,constipation
+continuous_feel_of_urine,lower urinary tract symptoms
+continuous_sneezing,sneezing
+cough,cough
+cramps,muscle cramp
+dark_urine,
+dehydration,
+depression,
+diarrhoea,diarrhea
+dischromic_patches,skin manifestations
+distention_of_abdomen,
+dizziness,dizziness
+drying_and_tingling_lips,paresthesia
+enlarged_thyroid,
+excessive_hunger,hyperphagia
+extra_marital_contacts,
+family_history,
+fast_heart_rate,
+fatigue,fatigue
+fluid_overload,edema
+foul_smell_of_urine,
+headache,headache
+high_fever,fever
+hip_joint_pain,arthralgia
+history_of_alcohol_consumption,
+increased_appetite,hyperphagia
+indigestion,dyspepsia
+inflammatory_nails,
+internal_itching,pruritus
+irregular_sugar_level,
+irritability,
+irritation_in_anus,pruritus ani
+itching,pruritus
+joint_pain,arthralgia
+knee_pain,arthralgia
+lack_of_concentration,memory disorders
+lethargy,lethargy
+loss_of_appetite,anorexia
+loss_of_balance,"gait disorders, neurologic"
+loss_of_smell,olfaction disorders
+malaise,asthenia
+mild_fever,fever
+mood_swings,
+movement_stiffness,muscle rigidity
+mucoid_sputum,
+muscle_pain,myalgia
+muscle_wasting,muscular atrophy
+muscle_weakness,muscle weakness
+nausea,nausea
+neck_pain,neck pain
+nodal_skin_eruptions,skin manifestations
+obesity,
+pain_behind_the_eyes,eye pain
+pain_during_bowel_movements,
+pain_in_anal_region,
+painful_walking,mobility limitation
+palpitations,
+passage_of_gases,flatulence
+patches_in_throat,
+phlegm,
+polyuria,polyuria
+prominent_veins_on_calf,
+puffy_face_and_eyes,edema
+pus_filled_pimples,skin manifestations
+receiving_blood_transfusion,
+receiving_unsterile_injections,
+red_sore_around_nose,
+red_spots_over_body,purpura
+redness_of_eyes,
+restlessness,psychomotor agitation
+runny_nose,
+rusty_sputum,
+scurring,
+shivering,chills
+silver_like_dusting,skin manifestations
+sinus_pressure,
+skin_peeling,skin manifestations
+skin_rash,skin manifestations
+slurred_speech,dysarthria
+small_dents_in_nails,
+spinning_movements,vertigo
+spotting_urination,dysuria
+stiff_neck,meningism
+stomach_bleeding,hematemesis
+stomach_pain,abdominal pain
+sunken_eyes,
+sweating,
+swelled_lymph_nodes,
+swelling_joints,arthralgia
+swelling_of_stomach,
+swollen_blood_vessels,
+swollen_extremeties,edema
+swollen_legs,edema
+throat_irritation,
+toxic_look_(typhos),
+ulcers_on_tongue,oral manifestations
+unsteadiness,ataxia
+visual_disturbances,vision disorders
+vomiting,vomiting
+watering_from_eyes,
+weakness_in_limbs,muscle weakness
+weakness_of_one_body_side,hemiplegia
+weight_gain,weight gain
+weight_loss,weight loss
+yellow_crust_ooze,skin manifestations
+yellow_urine,
+yellowing_of_eyes,jaundice
+yellowish_skin,jaundice

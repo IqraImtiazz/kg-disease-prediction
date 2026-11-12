@@ -1,0 +1,6 @@
+,mean_delta_vs_Baseline+Aug,wins
+Baseline,-0.069,1/10
+KG-features+Aug,-0.016,3/10
+KG-support+Aug,-0.005,5/10
+KG-imputation+Aug,-0.075,0/10
+KG-rerank+Aug,-0.007,1/10

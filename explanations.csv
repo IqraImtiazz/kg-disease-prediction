@@ -1,0 +1,93 @@
+true,predicted,symptoms,kg_disease,n_evidence,kg_evidence
+Hypothyroidism,Hypothyroidism,"abnormal_menstruation, depression, dizziness, fatigue, irritability, lethargy, weight_gain",hypothyroidism,1.0,fatigue → fatigue
+AIDS,AIDS,"extra_marital_contacts, high_fever",acquired immunodeficiency syndrome,1.0,high_fever → fever
+Diabetes,Diabetes,"excessive_hunger, increased_appetite, irregular_sugar_level, lethargy, polyuria, restlessness, weight_loss",type 2 diabetes mellitus,1.0,weight_loss → weight loss
+Hepatitis E,Hepatitis E,"fatigue, high_fever, joint_pain",,,
+Hepatitis C,Hepatitis C,"nausea, yellowish_skin",,,
+Jaundice,Jaundice,"abdominal_pain, high_fever, itching, yellowish_skin",,,
+Pneumonia,Pneumonia,"fast_heart_rate, fatigue, high_fever, malaise, rusty_sputum",,,
+Hepatitis B,Hepatitis B,"dark_urine, lethargy, loss_of_appetite, malaise, receiving_blood_transfusion, receiving_unsterile_injections",hepatitis b,0.0,
+(vertigo) Paroymsal Positional Vertigo,(vertigo) Paroymsal Positional Vertigo,nausea,,,
+Chronic cholestasis,Hepatitis C,"loss_of_appetite, nausea, yellowing_of_eyes, yellowish_skin",,,
+Hepatitis B,Hepatitis B,"dark_urine, malaise, yellow_urine, yellowish_skin",hepatitis b,1.0,yellowish_skin → jaundice
+Dengue,Dengue,"high_fever, muscle_pain, nausea, pain_behind_the_eyes, skin_rash, vomiting",,,
+Hypoglycemia,Hypoglycemia,"anxiety, fatigue, palpitations, sweating, vomiting",,,
+Hypothyroidism,Hypothyroidism,"abnormal_menstruation, cold_hands_and_feets, depression, dizziness",hypothyroidism,0.0,
+Hyperthyroidism,Hyperthyroidism,"abnormal_menstruation, excessive_hunger, fast_heart_rate, irritability, restlessness, weight_loss",graves' disease,0.0,
+Pneumonia,Pneumonia,"cough, fast_heart_rate, rusty_sputum",,,
+hepatitis A,hepatitis A,"dark_urine, diarrhoea, mild_fever, nausea, yellowing_of_eyes, yellowish_skin",,,
+Impetigo,Impetigo,"blister, skin_rash",,,
+Tuberculosis,Tuberculosis,"breathlessness, cough, fatigue, loss_of_appetite, mild_fever, sweating, yellowing_of_eyes",,,
+Typhoid,Typhoid,"abdominal_pain, chills, constipation, diarrhoea, fatigue, high_fever, nausea",,,
+Bronchial Asthma,Bronchial Asthma,"breathlessness, family_history, mucoid_sputum",asthma,1.0,breathlessness → dyspnea
+Bronchial Asthma,Chicken pox,"fatigue, high_fever",,,
+Psoriasis,Psoriasis,"joint_pain, silver_like_dusting, skin_rash",psoriasis,3.0,joint_pain → arthralgia; silver_like_dusting → skin manifestations; skin_rash → skin manifestations
+Osteoarthristis,Osteoarthristis,painful_walking,osteoarthritis,1.0,painful_walking → mobility limitation
+Drug Reaction,Drug Reaction,"itching, skin_rash, spotting_urination",,,
+Chicken pox,Chicken pox,"fatigue, headache, high_fever, malaise, swelled_lymph_nodes",,,
+Jaundice,Jaundice,"abdominal_pain, fatigue, vomiting, weight_loss",,,
+Impetigo,Impetigo,"red_sore_around_nose, yellow_crust_ooze",,,
+Common Cold,Common Cold,"chest_pain, chills, continuous_sneezing, headache, high_fever, muscle_pain, phlegm, redness_of_eyes, runny_nose",,,
+Malaria,Malaria,"chills, diarrhoea, sweating, vomiting",malaria,3.0,chills → chills; diarrhoea → diarrhea; vomiting → vomiting
+Hepatitis E,Hepatitis C,"coma, fatigue, loss_of_appetite",,,
+hepatitis A,hepatitis A,"loss_of_appetite, mild_fever, yellowing_of_eyes, yellowish_skin",,,
+Cervical spondylosis,Cervical spondylosis,back_pain,degenerative disc disease,1.0,back_pain → back pain
+Dengue,Dengue,"chills, joint_pain, malaise, nausea, skin_rash, vomiting",,,
+Heart attack,Heart attack,"chest_pain, sweating, vomiting",coronary artery disease,1.0,chest_pain → chest pain
+Jaundice,Jaundice,"dark_urine, fatigue, itching, vomiting, weight_loss",,,
+Arthritis,Arthritis,muscle_weakness,rheumatoid arthritis,0.0,
+Hepatitis E,Hepatitis E,"joint_pain, nausea, stomach_bleeding, yellowish_skin",,,
+GERD,GERD,"acidity, cough, stomach_pain, ulcers_on_tongue, vomiting",,,
+Dengue,Dengue,"chills, headache, high_fever, loss_of_appetite, muscle_pain, pain_behind_the_eyes, vomiting",,,
+Peptic ulcer diseae,Peptic ulcer diseae,"abdominal_pain, indigestion, internal_itching, passage_of_gases, vomiting",,,
+Cervical spondylosis,Cervical spondylosis,"dizziness, neck_pain",degenerative disc disease,1.0,neck_pain → neck pain
+Typhoid,Typhoid,"belly_pain, chills, fatigue, headache, high_fever, toxic_look_(typhos), vomiting",,,
+Hyperthyroidism,Hyperthyroidism,"fatigue, mood_swings, muscle_weakness, sweating, weight_loss",graves' disease,1.0,muscle_weakness → muscle weakness
+Gastroenteritis,Paralysis (brain hemorrhage),vomiting,,,
+Chicken pox,Chicken pox,"fatigue, lethargy, loss_of_appetite, malaise, mild_fever, swelled_lymph_nodes",,,
+Hypoglycemia,Hypoglycemia,"anxiety, blurred_and_distorted_vision, excessive_hunger, headache, nausea, palpitations, vomiting",,,
+Common Cold,Common Cold,"cough, fatigue, loss_of_smell, malaise, phlegm, runny_nose, sinus_pressure, swelled_lymph_nodes",,,
+AIDS,AIDS,extra_marital_contacts,acquired immunodeficiency syndrome,0.0,
+GERD,GERD,"chest_pain, stomach_pain, ulcers_on_tongue",,,
+Chronic cholestasis,Hepatitis C,"loss_of_appetite, nausea, yellowish_skin",,,
+Diabetes,Diabetes,"excessive_hunger, fatigue, increased_appetite, irregular_sugar_level, obesity",type 2 diabetes mellitus,0.0,
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles),"bloody_stool, constipation, pain_during_bowel_movements, pain_in_anal_region",,,
+Acne,Acne,pus_filled_pimples,,,
+Hepatitis B,Hepatitis B,"dark_urine, fatigue, itching, loss_of_appetite, receiving_blood_transfusion, receiving_unsterile_injections",hepatitis b,0.0,
+Hepatitis D,Hepatitis D,"abdominal_pain, fatigue, loss_of_appetite, nausea, yellowing_of_eyes",,,
+Hypertension,Hypertension,"chest_pain, dizziness, headache, lack_of_concentration",hypertension,2.0,dizziness → dizziness; headache → headache
+Hypoglycemia,Hypoglycemia,"drying_and_tingling_lips, sweating, vomiting",,,
+Hepatitis D,Osteoarthristis,joint_pain,osteoarthritis,1.0,joint_pain → arthralgia
+Typhoid,Typhoid,"belly_pain, chills, constipation, diarrhoea, fatigue, nausea, toxic_look_(typhos)",,,
+Alcoholic hepatitis,Alcoholic hepatitis,"abdominal_pain, history_of_alcohol_consumption, swelling_of_stomach, vomiting, yellowish_skin",,,
+Malaria,Malaria,"chills, diarrhoea, headache, muscle_pain",malaria,2.0,chills → chills; diarrhoea → diarrhea
+Fungal infection,Chronic cholestasis,itching,primary biliary cirrhosis,1.0,itching → pruritus
+Chicken pox,Chicken pox,"headache, itching, lethargy, red_spots_over_body",,,
+Varicose veins,Varicose veins,"cramps, fatigue, obesity, swollen_blood_vessels, swollen_legs",,,
+Heart attack,Heart attack,chest_pain,coronary artery disease,1.0,chest_pain → chest pain
+Varicose veins,Varicose veins,"bruising, obesity, prominent_veins_on_calf, swollen_blood_vessels",,,
+Pneumonia,Bronchial Asthma,"breathlessness, chest_pain, high_fever",asthma,2.0,breathlessness → dyspnea; chest_pain → chest pain
+Hepatitis D,Paralysis (brain hemorrhage),"dark_urine, vomiting",,,
+Hepatitis C,Hepatitis C,"loss_of_appetite, nausea, yellowing_of_eyes",,,
+Arthritis,Arthritis,"movement_stiffness, painful_walking",rheumatoid arthritis,0.0,
+Common Cold,Common Cold,"chest_pain, congestion, cough, headache, high_fever, loss_of_smell, malaise, muscle_pain, runny_nose, throat_irritation",,,
+Tuberculosis,Tuberculosis,"blood_in_sputum, high_fever, mild_fever, swelled_lymph_nodes, vomiting, weight_loss, yellowing_of_eyes",,,
+Urinary tract infection,Urinary tract infection,"continuous_feel_of_urine, foul_smell_of_urine",,,
+Drug Reaction,Drug Reaction,"burning_micturition, itching, skin_rash, spotting_urination",,,
+Alcoholic hepatitis,Alcoholic hepatitis,"abdominal_pain, fluid_overload, history_of_alcohol_consumption, swelling_of_stomach, vomiting",,,
+(vertigo) Paroymsal Positional Vertigo,(vertigo) Paroymsal Positional Vertigo,"headache, loss_of_balance, vomiting",,,
+Osteoarthristis,Osteoarthristis,"joint_pain, neck_pain, swelling_joints",osteoarthritis,3.0,joint_pain → arthralgia; neck_pain → neck pain; swelling_joints → arthralgia
+Psoriasis,Psoriasis,"silver_like_dusting, skin_peeling, skin_rash, small_dents_in_nails",psoriasis,3.0,silver_like_dusting → skin manifestations; skin_peeling → skin manifestations; skin_rash → skin manifestations
+Migraine,Migraine,"indigestion, irritability, stiff_neck, visual_disturbances",migraine,1.0,visual_disturbances → vision disorders
+Tuberculosis,Tuberculosis,"blood_in_sputum, breathlessness, cough, high_fever, malaise, mild_fever, swelled_lymph_nodes, vomiting, yellowing_of_eyes",,,
+Paralysis (brain hemorrhage),Paralysis (brain hemorrhage),"headache, weakness_of_one_body_side",,,
+Allergy,Allergy,watering_from_eyes,allergic rhinitis,0.0,
+hepatitis A,hepatitis A,"loss_of_appetite, mild_fever, muscle_pain, yellowish_skin",,,
+Migraine,Migraine,"acidity, blurred_and_distorted_vision, depression, headache",migraine,2.0,blurred_and_distorted_vision → vision disorders; headache → headache
+Hyperthyroidism,Hyperthyroidism,"fatigue, muscle_weakness, restlessness, weight_loss",graves' disease,1.0,muscle_weakness → muscle weakness
+Peptic ulcer diseae,Peptic ulcer diseae,"indigestion, passage_of_gases",,,
+Hypertension,Hypertension,"chest_pain, dizziness, headache, lack_of_concentration",hypertension,2.0,dizziness → dizziness; headache → headache
+Diabetes,Diabetes,"increased_appetite, lethargy, obesity, polyuria",type 2 diabetes mellitus,0.0,
+Migraine,Migraine,"acidity, blurred_and_distorted_vision, depression, excessive_hunger, headache, irritability",migraine,2.0,blurred_and_distorted_vision → vision disorders; headache → headache
+Dimorphic hemmorhoids(piles),Dimorphic hemmorhoids(piles),"bloody_stool, constipation, irritation_in_anus",,,
+Fungal infection,Fungal infection,dischromic_patches,,,
