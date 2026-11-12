@@ -5,7 +5,7 @@ Hybrid pipeline combining an open biomedical knowledge graph (**Hetionet v1.0**,
 **Stack:** Python, pandas, scikit-learn, NetworkX, matplotlib (Google Colab)
 
 ## Data
-- Symptom–disease dataset (Kaggle): 4962 raw rows → **305 unique records** after de-duplication (prevents train/test leakage), 41 diseases, 131 symptoms.
+- Symptom–disease dataset (Kaggle/https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning): 4962 raw rows → **305 unique records** after de-duplication (prevents train/test leakage), 41 diseases, 131 symptoms.
 - Knowledge graph: Hetionet — 133 diseases, 412 symptoms (MeSH), 3357 DpS edges.
 - Mapping coverage (manual, see `symptom_mapping.csv`, `disease_mapping.csv`): **85/131 symptoms**, **16/41 diseases** (some disease matches are approximate).
 
